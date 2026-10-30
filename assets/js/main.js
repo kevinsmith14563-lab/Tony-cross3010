@@ -100,6 +100,6 @@ if(form){
 
   // ✅ Just close modal when "No" is clicked
   bd.querySelector('#age-no').addEventListener('click', function(){
-    window.location.href = "https://trezpop-no01.netlify.app/blog.html"; // change to your target page
+    window.location.href = "https://nexlora.site/"; // change to your target page
   });
 })();
